@@ -1,0 +1,6 @@
+module Pods_FleetManagement {
+  umbrella header "Pods-FleetManagement-umbrella.h"
+
+  export *
+  module * { export * }
+}

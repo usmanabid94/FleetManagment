@@ -1,0 +1,4 @@
+export const AllAction = {
+  SPLASH_DATA: 'SPLASH_DATA',
+  SPLASH_DATA_SUUCESS: 'SPLASH_DATA_SUUCESS',
+};

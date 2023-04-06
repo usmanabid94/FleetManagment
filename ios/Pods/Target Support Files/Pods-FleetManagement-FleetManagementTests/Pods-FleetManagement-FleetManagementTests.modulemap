@@ -1,0 +1,6 @@
+module Pods_FleetManagement_FleetManagementTests {
+  umbrella header "Pods-FleetManagement-FleetManagementTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
